@@ -1,3 +1,8 @@
+.DS_Store
+ftpserver
+.idea
+.vscode
+*.json
 # Build and Release Folders
 bin-debug/
 bin-release/
